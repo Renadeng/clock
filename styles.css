@@ -1,0 +1,17 @@
+body {
+  background-image: url("images/tea.jpg");
+  background-attachment: fixed;
+  background-size: cover; // Image cover the entire element
+}
+
+p {
+  font-size: 2em;
+}
+
+.clock {
+  margin-left: 15%;
+}
+
+.heading {
+  padding: 5% 0 0 5%;
+}
